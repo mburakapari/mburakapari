@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Muhammed Burak Aparı</h1>
+<h1 align="center">Merhaba 👋, ben Muhammed Burak APARI</h1>
 
 <p align="center">
   <b>Kocaeli Üniversitesi — Bilgisayar Mühendisliği Öğrencisi</b><br>
@@ -14,6 +14,9 @@
   </a>
   <a href="mailto:mburakapari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/>
+  </a>
+  <a href="https://github.com/mburakapari/mburakapari/raw/main/assets/Muhammed_Burak_Apari_CV.pdf">
+    <img src="https://img.shields.io/badge/CV_İndir-2F855A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV İndir"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mburakapari&style=for-the-badge&color=0A66C2" alt="Profil görüntülenme"/>
 </p>
@@ -97,19 +100,12 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📚 Şu An Öğrendiklerim
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mburakapari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=tr&cache_seconds=86400" alt="GitHub İstatistikleri"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mburakapari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=tr&cache_seconds=86400" alt="En Çok Kullanılan Diller"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mburakapari&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak"/>
-</p>
+- 🤖 **Transformer mimarisi** ve LLM fine-tuning teknikleri (LoRA, PEFT)
+- 🔍 **Vektör veritabanları** ve RAG mimarileri — embedding, chunking, retrieval stratejileri
+- ⚙️ **MLOps** — model versiyonlama, deney takibi ve production'da model izleme
+- 🏗️ **Sistem tasarımı** — ölçeklenebilir servis mimarileri, caching ve queue yapıları
 
 ---
 
@@ -127,7 +123,8 @@
 <p align="center">
   <a href="mailto:mburakapari@gmail.com"><b>mburakapari@gmail.com</b></a> ·
   <a href="https://linkedin.com/in/mburakapari/"><b>LinkedIn</b></a> ·
-  <a href="https://github.com/mburakapari"><b>GitHub</b></a>
+  <a href="https://github.com/mburakapari"><b>GitHub</b></a> ·
+  <a href="https://github.com/mburakapari/mburakapari/raw/main/assets/Muhammed_Burak_Apari_CV.pdf"><b>CV (PDF)</b></a>
 </p>
 
 <p align="center">
