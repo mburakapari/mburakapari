@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 Hakkımda
 
-- 🎓 **Kocaeli Üniversitesi Bilgisayar Mühendisliği** 4. sınıf öğrencisiyim — Not ortalaması **3.51 / 4.00**
+- 🎓 **Kocaeli Üniversitesi Bilgisayar Mühendisliği** 4. sınıf öğrencisiyim
 - 🥇 Birden fazla dönem **bölüm 1.'si** oldum
 - 🧠 **Yapay Zekâ** ve **Veri Bilimi** ile kişiselleştirilmiş kullanıcı deneyimleri geliştirmeye odaklanıyorum
 - ⚡ **Algoritmik verimlilik** ve temiz **yazılım mimarisi** benim için önemli
