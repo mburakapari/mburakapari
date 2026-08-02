@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Muhammed Burak Apari</h1>
+<h1 align="center">Merhaba 👋, ben Muhammed Burak Aparı</h1>
 
 <p align="center">
   <b>Kocaeli Üniversitesi — Bilgisayar Mühendisliği Öğrencisi</b><br>
@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 Hakkımda
 
-- 🎓 **Kocaeli Üniversitesi Bilgisayar Mühendisliği** 4. sınıf öğrencisiyim — Not ortalaması **3.51 / 4.00** (Yüksek Onur)
+- 🎓 **Kocaeli Üniversitesi Bilgisayar Mühendisliği** 4. sınıf öğrencisiyim — Not ortalaması **3.51 / 4.00**
 - 🥇 Birden fazla dönem **bölüm 1.'si** oldum
 - 🧠 **Yapay Zekâ** ve **Veri Bilimi** ile kişiselleştirilmiş kullanıcı deneyimleri geliştirmeye odaklanıyorum
 - ⚡ **Algoritmik verimlilik** ve temiz **yazılım mimarisi** benim için önemli
@@ -84,19 +84,31 @@
 | **Lojistik & Rota Optimizasyonu** | Dijkstra ve VRP algoritmalarıyla yakıt maliyetini ve teslimat süresini minimize eden rota optimizasyon sistemi; istasyon yönetimi için veri görselleştirme paneli | `Python` `Algoritmalar` |
 | **Diyabet Takip Sistemi** | Veri bütünlüğü ve yüksek performanslı SQL sorgulamaya odaklı ilişkisel veritabanı sistemi | `PostgreSQL` `MySQL` |
 
-> 📌 Sabitlenmiş repolarım aşağıda — koda göz atmaktan çekinme.
+---
+
+## 🛠️ Üzerinde Çalıştıklarım
+
+| Proje | Ne Yapıyor | Teknolojiler | Durum |
+|---|---|---|---|
+| **RAG Tabanlı Doküman Asistanı** | PDF ve dokümanları vektör veritabanına gömüp, kaynak göstererek soru cevaplayan yapay zekâ asistanı. Chunking, embedding ve semantic search pipeline'ı sıfırdan kuruluyor | `Python` `FastAPI` `LangChain` `pgvector` `React` | 🚧 Geliştiriliyor |
+| **Türkçe Duygu Analizi API'si** | Türkçe metinler için fine-tune edilmiş transformer modeli; Docker'da paketlenmiş, dokümante edilmiş REST API olarak sunuluyor | `PyTorch` `Transformers` `FastAPI` `Docker` | 🚧 Geliştiriliyor |
+| **Kişiselleştirilmiş Öneri Motoru** | Collaborative filtering ve içerik tabanlı hibrit öneri sistemi; A/B test altyapısı ve öneri kalitesi metrikleriyle birlikte | `Python` `Scikit-learn` `PostgreSQL` `Redis` | 📋 Planlanıyor |
+| **Uçtan Uca MLOps Pipeline'ı** | Model eğitiminden deployment'a kadar otomatik akış: veri doğrulama, deney takibi, CI/CD ve model performans izleme | `MLflow` `Docker` `GitHub Actions` `FastAPI` | 📋 Planlanıyor |
 
 ---
 
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mburakapari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=tr" alt="GitHub İstatistikleri"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mburakapari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=tr" alt="En Çok Kullanılan Diller"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mburakapari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=tr&cache_seconds=86400" alt="GitHub İstatistikleri"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mburakapari&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mburakapari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=tr&cache_seconds=86400" alt="En Çok Kullanılan Diller"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mburakapari&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -105,7 +117,7 @@
 
 **Kocaeli Üniversitesi** — Bilgisayar Mühendisliği Lisans · *Beklenen Mezuniyet: Haziran 2027*
 
-- **Not Ortalaması:** 3.51 / 4.00 (Yüksek Onur Öğrencisi)
+- **Not Ortalaması:** 3.51 / 4.00
 - **İlgili Dersler:** Veri Yapıları & Algoritmalar, İşletim Sistemleri, Makine Öğrenmesi, Veritabanı Yönetimi, Yazılım Mühendisliği, Kriptografi
 
 ---
